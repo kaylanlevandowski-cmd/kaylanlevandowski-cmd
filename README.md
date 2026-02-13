@@ -1,32 +1,45 @@
-# Olá, eu sou o Kaylan Levandowski! 👋
+# Olá! Eu sou o Kaylan Levandowski 🚜🌱
 
-![Banner Agro](https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-> *Transformando o campo através da tecnologia e inovação.*
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8eJp8S8YyXz3z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z0z/s1600/T7-Plantando.jpg" alt="New Holland T7 no Plantio" width="100%">
+</p>
 
----
-
-## 🚜 Sobre Mim
-Sou apaixonado pelo agronegócio e busco conectar o poder do código com a eficiência no campo. Atualmente, foco em desenvolver soluções que otimizem processos agrícolas, desde o plantio até a colheita.
-
-* 🌱 Atualmente aprendendo: **Data Science voltado ao Agro**
-* 🚜 Especialidade: **Automação e Monitoramento de Safra**
-* 💬 Pergunte-me sobre: **Tecnologia de precisão e tratores T7**
+> **"A tecnologia é o adubo que faz o futuro do agronegócio crescer."**
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
-![My Skills](https://skillicons.dev/icons?i=py,js,html,css,github,git,postgres)
+### 🌾 Sobre Mim
+Sou um entusiasta do agronegócio com o pé na terra e a mente na inovação. Acredito que a integração entre máquinas potentes, como o **New Holland T7**, e o desenvolvimento de software é a chave para a produtividade sustentável.
+
+* 🚜 **Foco:** Automação agrícola e gestão de dados no campo.
+* 🛠 **Projetos:** Desenvolvendo soluções para otimização de plantio e monitoramento de safra.
+* 📍 **Localização:** Brasil - O celeiro do mundo.
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🚀 Tecnologias no Campo
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📬 Vamos conversar?
+### 📊 Estatísticas de Desenvolvedor
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=gotham" />
+</p>
+
+---
+
+### 🤝 Conecte-se Comigo
+Que tal trocarmos uma ideia sobre o futuro do Agro?
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO)
+
+---
+*Perfil criado com foco em tecnologia agrícola.*
